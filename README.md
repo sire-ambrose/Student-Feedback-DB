@@ -6,3 +6,5 @@ It is mandatory for a student to give feedback on a course he/she has taken,In a
 session, students are required to give a numerical rating and textual comments on the modules they have attended.
 
 ### ER Diagram
+
+![ER Diagram](https://github.com/sire-ambrose/Student-Feedback-DB/blob/main/feedback.png)
